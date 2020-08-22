@@ -9,4 +9,4 @@ Cuando se quiera preparar comida, primero se ingresará el tiempo que se tenga, 
 El refrigerador mandara una orden a la estufa que al colocarse un sartén o una cacerola se prenda automáticamente a la temperatura que se tiene registrada en la receta, también se pondrán los tiempos que se requieren para realizar cada paso.
 En caso de necesitar el microondas al ingresar el alimento, se enciende automáticamente siguiendo las ordenes que el refrigerador indique.
 Las recetas contaran con una serie de pasos que se irán desbloqueando conforme se avance con el procedimiento.
-De esta manera, solo se pasa el tiempo ingresado a estar cocinando, también, al ser un sistema inteligente se optimiza la energía ya que se tiene el tiempo y temperatura exactos con el que se puede preparar los alimentos sin desperdicio de energía.
+De esta manera, solo se pasa el tiempo ingresado para estar cocinando, también, al ser un sistema inteligente se optimiza la energía ya que se tiene el tiempo y temperatura exactos con el que se puede preparar los alimentos sin desperdicio de energía.
