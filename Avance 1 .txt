@@ -1,0 +1,68 @@
+Algoritmos de proyecto
+
+Cantidad de alimentos (calabaza, cebolla, jitomate, champiñones, huevo, harina, salchicha, ajo, pasta, arroz, pepino, aguacate, papa, jamón, queso)
+cebolla = int(input( “Poner cantidad de cebolla” ))
+calabaza = int(input( “Poner cantidad de calabaza” ))
+jitomate = int(input( “Poner cantidad de jitomate” ))
+champiñones = int(input( “Poner cantidad de champiñones” ))
+huevo = int(input( “Poner cantidad de huevo” ))
+harina = int(input( “Poner cantidad de harina” ))
+salchicha = int(input( “Poner cantidad de salchicha” ))
+ajo = int(input( “Poner cantidad de ajo” ))
+pasta = int(input( “Poner cantidad de pasta” ))
+arroz = int(input( “Poner cantidad de arroz” ))
+pepino = int(input( “Poner cantidad de pepino” ))
+aguacate = int(input( “Poner cantidad de aguacate” ))
+papa = int(input( “Poner cantidad de papa” ))
+jamón = int(input( “Poner cantidad de jamón” ))
+queso = int(input( “Poner cantidad de queso” ))
+
+paso_1 (tiempo)
+if tiempo <= 30
+	return ( omelet, banderilla, pasta )
+if tiempo > 40
+	return (ratatouille, sushi, croquetas)
+
+paso_2 ( omelet, banderilla, pasta, ratatouille, sushi, croquetas )
+if calabaza and cebolla and jitomate and champiñones and huevo => 2
+	return (omelet)
+If  harina and huevo and leche and salchicha => 10
+	return (banderilla)
+else if pasta and jitomate and cebolla and ajo => 4
+	return (pasta)
+if berenjena and jitomate and calabaza and cebolla and ajo => 5
+	return (ratatouille)
+if arroz and pepino and aguacate = 4
+	return (sushi)
+if papa and jamon and queso = 6
+	return (croquetas)
+
+EJEMPLO DE RECETA
+receta_omelet (temp, electricidad, calabaza, cebolla, jitomate, champiñones, huevo, tiempo1, tiempo2)
+if omelet = si 
+return (receta_omelet)
+
+while ( temp < 80 )
+electricidad = electricidad + 1 
+temp = calor (electricidad)
+return (temp)
+
+if calabaza and cebolla and champiñones = cortada
+ return = “poner en sarten y revolver contantemente “
+while (tiempo1 <= 5 minutos)
+minutos = minutos + 1 
+return = “agregar huevos previamente revueltos”
+while (tiempo2 <= 3 minutos)
+minutos = minutos + 1 
+return = “ doblar y servir”
+
+
+
+
+
+
+	
+
+
+
+
