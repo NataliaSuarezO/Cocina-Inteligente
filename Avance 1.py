@@ -1,4 +1,5 @@
 """
+ESTE AVANCE SE CENTRA EN EVITAR EL DESPERDICIO DE ALIMENTOS
 Tiempo de consumo de diversos alimentos
 """
 print ("Consumo preferente de tus alimentos")
