@@ -39,7 +39,7 @@ def comida_2(pollo,res,repollo):
 def comida_3(pepino,lechuga,jitomate,pollo,mantequilla,repollo,res):
     #Devueleve si es posible hacer la comida tres 
     if pollo and res and mantequilla >= 2 and repollo and pepino and lechuga and jitomate >= 1:
-        return (comida_1(pepino,lechuga,jitomate,pollo,mantequilla) and comida_2(pollo,res,repollo))
+        return (comida_1(pepino,lechuga,jitomate,pollo,mantequilla) + comida_2(pollo,res,repollo))
     else:
         return ("No hay ingredientes suficientes")
     
