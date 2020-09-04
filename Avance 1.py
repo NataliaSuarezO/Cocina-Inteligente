@@ -17,18 +17,19 @@ if alimento == 4:
     print ("carne fresca:","","Consumir en 4 días")
 if alimento == 5:
     print ("huevo:","","Consumir en 1 mes")
+
 """
 Conteo de los alimentos
 """
 print ("conteo de los alimentos")
 print ("coloca tu numero de alimentos:")
-print ("Verduras y frutas:")
+print ("verduras y frutas:")
 var_1= int(input())
-print ("Lácteos:")
+print ("lacteos:")
 var_2= int(input())
-print ("Embutido:") 
+print ("embutido:") 
 var_3=int(input())
-print("Carne fresca:")
+print("carne fresca:")
 var_4= int(input())
 print("Huevos:")
 var_5=int(input())
