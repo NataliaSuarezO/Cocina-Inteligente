@@ -1,3 +1,4 @@
+#Ingresa el tiempo que se tiene y lanza que opción es la mejor
 def tiempo_desayuno(td):
     #Define que desayuno se puede hacer dependiendo del tiempo.
     if td < 20 and td > 4:
