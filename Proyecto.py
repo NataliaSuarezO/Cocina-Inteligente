@@ -672,5 +672,7 @@ después el numero de comidas del día
 y finalmente coloca los elementos que quieres agregar""")
 print ("")
 print (crea_tu_menu(int(input()), int(input())))
+print ("Ahora tienes tus menus o menú")
+print ("¡Gracias por usar este sistema!")
 
 
