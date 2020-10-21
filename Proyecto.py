@@ -1,3 +1,10 @@
+"""
+Título de proyecto : Cocina Inteligente.
+Autor              : Natalia Suárez Olmos.
+Matrícula          : A01707445.
+python_version     : 3.7.7
+"""
+
 import time
 """Esta función hace que la consola imprima después de un cierto
 tiempo dado. El número que se inserta en la función está dado en segundos,
@@ -123,6 +130,9 @@ print (" Pon la cantidad de repollo:")
 repollo = int(input())
 print ("")
 
+"""
+Opciones de comida
+"""
 def ensalada(pepino,lechuga,jitomate):
     #Devueleve si es posible hacer una ensalada
     if pepino >= 1 and lechuga >= 1 and jitomate >= 1:
@@ -190,7 +200,9 @@ print (comida_3(pepino,lechuga,jitomate,res),"""
 esta comida se denominará comida 3""")
 print ("")
 
-
+"""
+Despliega recetas dependiendo de el tiempo
+"""
 print ("""En esta sección indicaras el tiempo con el que cuentas
 para realizar tu comida""")
 print ("Indica si quieres desayuno (1) o comida (2)")
@@ -230,6 +242,10 @@ if (opcion == 2):
     print ("Inserta tiempo de comida")
     tc = int(input())
     print (tiempo_comida(tc))
+
+"""
+Porciones de comidas y desayunos
+"""
 
 print ("Aquí tienes la opción de hacer más porciones de tus diversas comidas")
 print ("Solo podrás preparar una comida a la vez")
@@ -348,7 +364,10 @@ jitomate (pieza), res (gramos)""")
     print ("Nueva porción",com3)
 else:
     print ("Ok")
-
+    
+"""
+Instrucciones de recetas
+"""
 
 print ("""De la comida que elegiste anteriormente,
 coloca el número correspondiente""")
@@ -596,7 +615,10 @@ if (opcion2 == 7):
     print ("Listo para realizar el alimento")
     print ("Pasos para realizarlo:")
     print (time_comida3(1))
-
+    
+"""
+Menús
+"""
 print ("")
 print ("Menús por día")
 
