@@ -13,6 +13,8 @@ puede ser en números enteros o flotantes."""
 """
 Tiempo de consumo de diversos alimentos
 """
+print ("WARNING")
+print ("PONER LAS PALABRAS COMO SE INDICAN")
 print ("Consumo preferente de tus alimentos")
 print ("Tipos de alimentos: verduras y frutas(1), lacteos(2)")
 print ("embutido(3), carne fresca(4), huevo(5)")
@@ -74,23 +76,23 @@ verduras y frutas, lácteos, huevo, embutidos y carne fresca""")
     var_7=  str(input())
     print ("Indica que cantidad tomaste del alimento")
     var_8= int(input())
-    if var_7 == "Verduras y frutas":
+    if var_7 == "verduras y frutas":
         print ("Nueva cantidad de verduras y frutas:")
         var_1 = var_1 - var_8
         print (var_1)
-    if var_7 == "Lácteos":
+    if var_7 == "lácteos":
         print ("Nueva cantidad de lacteos:")
         var_2 = var_2 - var_8
         print (var_2)
-    if var_7 == "Embutidos":
+    if var_7 == "embutidos":
         print ("Nueva cantidad de embutidos:")
         var_3 = var_3 - var_8
         print (var_3)
-    if var_7 == "Carne fresca":
+    if var_7 == "carne fresca":
         print ("Nueva cantidad de carne fresca:")
         var_4 = var_4 - var_8
         print (var_4)
-    if var_7 == "Huevo":
+    if var_7 == "huevo":
         print ("Nueva cantidad de huevo:")
         var_5 = var_5 - var_8
         print (var_5)
